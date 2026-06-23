@@ -1,6 +1,7 @@
 ---
 title: AI旅行アシスタント — Gemini搭載の旅行プランニングWebアプリ
 date: 2026-06-23
+lang: ja
 categories: プロジェクト
 tags:
   - Vue

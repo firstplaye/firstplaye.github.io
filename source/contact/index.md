@@ -2,6 +2,7 @@
 title: お問い合わせ
 date: 2026-06-23
 type: page
+lang: ja
 ---
 
 ## 📬 連絡先

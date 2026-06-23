@@ -1,6 +1,7 @@
 ---
 title: 卒業制作「文書知能分析・自動修正システム」について
 date: 2026-03-15
+lang: ja
 categories: プロジェクト
 tags:
   - Python

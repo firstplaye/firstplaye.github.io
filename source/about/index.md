@@ -2,6 +2,7 @@
 title: 自己紹介
 date: 2026-06-23
 type: page
+lang: ja
 ---
 
 ## 👤 プロフィール

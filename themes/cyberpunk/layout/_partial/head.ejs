@@ -29,19 +29,30 @@
   <% } %>
   <%- css('css/style') %>
   <script>
-    // Language switcher - stores preference and reloads
+    // Language switcher with URL prefix: /ja/ /zh-cn/ /en/
     (function(){
-      var lang = localStorage.getItem('lang') || 'ja';
-      document.documentElement.lang = lang;
+      var path = location.pathname;
+      var curLang = 'ja';
+      if (/^\/zh-cn\//.test(path)) curLang = 'zh-cn';
+      else if (/^\/en\//.test(path)) curLang = 'en';
+      document.documentElement.lang = curLang;
+
       document.addEventListener('DOMContentLoaded', function(){
         var btns = document.querySelectorAll('.lang-btn');
         btns.forEach(function(b){
-          if (b.dataset.lang === lang) b.classList.add('active');
+          if (b.dataset.lang === curLang) b.classList.add('active');
           else b.classList.remove('active');
           b.addEventListener('click', function(){
-            var l = this.dataset.lang;
-            localStorage.setItem('lang', l);
-            location.reload();
+            var target = this.dataset.lang;
+            if (target === curLang) return;
+            var newPath;
+            if (curLang === 'ja') {
+              newPath = '/' + target + path;
+            } else {
+              var stripped = path.replace(/^\/(ja|zh-cn|en)\//, '/');
+              newPath = target === 'ja' ? stripped : '/' + target + stripped;
+            }
+            location.href = newPath;
           });
         });
       });
