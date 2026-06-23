@@ -8,6 +8,15 @@ type: page
 
 ---
 
+### [✈️ AI 旅行アシスタント](/2026/06/23/travel-ai-assistant/)
+`2026年6月` | 個人開発
+
+Gemini 搭載の旅行プランニング Web アプリ。Vue3 + Express + SSE ストリーミング。
+
+> 技術スタック：`Vue` `Node.js` `Express` `Gemini` `SSE` `Vant`
+
+---
+
 ### [🤖 文書知能分析・自動修正システム](/2026/03/14/thesis-docx-system/)
 `2026年3月` | 卒業制作 🎓
 
