@@ -1,0 +1,19 @@
+<div id="landing">
+  <div class="landing-center">
+    <h1 class="landing-logo glitch-jitter" data-text="<%= config.title %>"><%= config.title %></h1>
+    <% if (theme.subtitle || config.subtitle){ %>
+      <h2 class="landing-subtitle">
+        <span class="landing-prompt">></span> <%= theme.subtitle || config.subtitle %>
+        <span class="landing-cursor">▮</span>
+      </h2>
+    <% } %>
+    <div class="pixel-btns">
+      <% for (var i in theme.menu){ %>
+        <a class="pixel-btn" href="<%- url_for(theme.menu[i]) %>">
+          <span class="pixel-btn-label"><%= i %></span>
+        </a>
+      <% } %>
+    </div>
+  </div>
+</div>
+<%- partial('_partial/game') %>

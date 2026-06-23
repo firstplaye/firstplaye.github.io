@@ -1,0 +1,35 @@
+# Landscape 主题配置
+# 更多配置选项请参考 https://github.com/hexojs/hexo-theme-landscape
+
+# Header
+menu:
+  首页: /
+  归档: /archives
+  # 关于: /about
+
+# 右侧边栏
+widgets:
+  - category
+  - tag
+  - archive
+  - recent_posts
+
+# 社交链接
+# social:
+#   GitHub: https://github.com/yourusername
+#   Twitter: https://twitter.com/yourusername
+
+# 文章摘要
+excerpt_link: 阅读更多
+
+# 页脚
+footer:
+  powered: true  # 显示 "由 Hexo 驱动"
+  theme:
+    enable: true  # 显示主题名称
+    version: false
+
+# 代码高亮
+highlight:
+  enable: true
+  line_number: true

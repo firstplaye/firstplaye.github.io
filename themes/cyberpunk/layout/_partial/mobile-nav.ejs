@@ -1,0 +1,6 @@
+<nav id="mobile-nav">
+  <a href="javascript:void(0)" id="mobile-nav-close" style="position:absolute;top:20px;right:20px;font-size:1.5rem;color:var(--neon-cyan);">✕</a>
+  <% for (var i in theme.menu){ %>
+    <a href="<%- url_for(theme.menu[i]) %>" class="mobile-nav-link"><%= i %></a>
+  <% } %>
+</nav>

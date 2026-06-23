@@ -1,0 +1,71 @@
+# ===============
+# Cyberpunk Theme Config
+# ===============
+
+# Header
+menu:
+  自己紹介: /about
+  プロジェクト: /projects
+  お問い合わせ: /contact
+rss: /atom.xml
+subtitle: "// ENTER_THE_MATRIX"
+
+# Social links (Fork Awesome icons)
+links:
+  github: https://github.com
+  # twitter: https://twitter.com
+
+# ===============
+# Portal Links (Homepage jump buttons)
+# Each entry: label, url, icon (emoji), description
+# ===============
+portal_links:
+  - label: "GitHub"
+    url: "https://github.com"
+    icon: "💻"
+    desc: "リポジトリ"
+  - label: "掘金"
+    url: "https://juejin.cn"
+    icon: "📚"
+    desc: "技術コミュニティ"
+  - label: "知乎"
+    url: "https://zhihu.com"
+    icon: "💡"
+    desc: "Q&Aプラットフォーム"
+  - label: "Bilibili"
+    url: "https://bilibili.com"
+    icon: "🎬"
+    desc: "動画共有"
+
+# Content
+excerpt_link: "> READ_MORE_"
+fancybox: false
+
+# Footer
+copyright: "© 2026 // SYSTEM_ONLINE //"
+
+# Sidebar
+sidebar: right
+widgets:
+  - category
+  - tagcloud
+  - archive
+  - recent_posts
+
+# Widget behavior
+archive_type: 'monthly'
+show_count: true
+recent_posts_limits: 5
+
+# Miscellaneous
+google_analytics:
+gauges_analytics:
+favicon: /favicon.png
+twitter:
+
+# Comment system
+disqus_shortname:
+valine:
+  enable: false
+  appId:
+  appKey:

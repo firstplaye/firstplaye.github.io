@@ -1,0 +1,18 @@
+<article id="<%= post.layout %>-<%= post.slug %>"
+  class="h-entry article article-type-<%= post.layout %>"
+  itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+
+  <div class="article-meta">
+    <%- partial('post/date', {class_name: 'article-date', date_format: null}) %>
+  </div>
+
+  <div class="article-inner">
+    <% if (post.title){ %>
+      <header class="article-header">
+        <h1 itemprop="name" class="p-name article-title">
+          <a href="<%- url_for(post.path) %>"><%= post.title %></a>
+        </h1>
+      </header>
+    <% } %>
+  </div>
+</article>

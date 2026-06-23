@@ -1,0 +1,22 @@
+<% if (theme.portal_links && theme.portal_links.length){ %>
+<section id="portal">
+  <div class="portal-header">
+    <span class="portal-bracket">/*</span>
+    <span class="portal-title"><%= __('portal_title') || 'QUICK_GATEWAY' %></span>
+    <span class="portal-bracket">*/</span>
+    <span class="portal-cursor">▮</span>
+  </div>
+  <div class="portal-grid">
+    <% theme.portal_links.forEach(function(link){ %>
+      <a href="<%- link.url %>" target="_blank" rel="noopener" class="portal-card">
+        <span class="portal-icon"><%= link.icon %></span>
+        <span class="portal-label"><%= link.label %></span>
+        <% if (link.desc){ %>
+          <span class="portal-desc"><%= link.desc %></span>
+        <% } %>
+        <span class="portal-arrow">→</span>
+      </a>
+    <% }) %>
+  </div>
+</section>
+<% } %>
