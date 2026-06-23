@@ -27,7 +27,7 @@ Feel free to reach out for inquiries or work opportunities.
 
 | Platform | URL |
 |----------|-----|
-| **Personal Site** | [firstplaye.github.io](https://firstplaye.github.io/caiyijun.github.io/) |
+| **Personal Site** | [firstplaye.github.io](https://firstplaye.github.io) |
 | **GitHub** | [github.com](https://github.com) |
 
 ---

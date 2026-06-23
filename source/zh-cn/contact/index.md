@@ -27,7 +27,7 @@ lang: zh-cn
 
 | 平台 | 链接 |
 |------|------|
-| **个人网站** | [firstplaye.github.io](https://firstplaye.github.io/caiyijun.github.io/) |
+| **个人网站** | [firstplaye.github.io](https://firstplaye.github.io) |
 | **GitHub** | [github.com](https://github.com) |
 
 ---

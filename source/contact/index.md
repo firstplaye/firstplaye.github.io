@@ -27,7 +27,7 @@ lang: ja
 
 | プラットフォーム | リンク |
 |------------------|--------|
-| **個人サイト** | [firstplaye.github.io](https://firstplaye.github.io/caiyijun.github.io/) |
+| **個人サイト** | [firstplaye.github.io](https://firstplaye.github.io) |
 | **GitHub** | [github.com](https://github.com) |
 
 ---

@@ -15,7 +15,7 @@ type: page
 | **メール** | c20438856688@gmail.com |
 | **希望職種** | ソフトウェア開発 |
 | **就業開始** | 内定後、随時就業可能 |
-| **個人サイト** | [https://firstplaye.github.io/caiyijun.github.io/](https://firstplaye.github.io/caiyijun.github.io/) |
+| **個人サイト** | [https://firstplaye.github.io](https://firstplaye.github.io) |
 
 ---
 
@@ -107,4 +107,4 @@ type: page
 
 フロントエンド開発およびミニゲーム開発の経験があり、関連プロジェクトを独立して進めることができます。仕事に対して誠実に取り組み、環境への適応力も高く、今後も新しい知識や技術を積極的に学びながら成長していきたいと考えています。
 
-> 詳しい情報や個人作品については、[個人サイト](https://firstplaye.github.io/caiyijun.github.io/) をご覧ください。
+> 詳しい情報や個人作品については、[個人サイト](https://firstplaye.github.io) をご覧ください。
