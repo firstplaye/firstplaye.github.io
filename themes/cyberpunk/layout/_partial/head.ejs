@@ -28,4 +28,23 @@
     <%- favicon_tag(theme.favicon) %>
   <% } %>
   <%- css('css/style') %>
+  <script>
+    // Language switcher - stores preference and reloads
+    (function(){
+      var lang = localStorage.getItem('lang') || 'ja';
+      document.documentElement.lang = lang;
+      document.addEventListener('DOMContentLoaded', function(){
+        var btns = document.querySelectorAll('.lang-btn');
+        btns.forEach(function(b){
+          if (b.dataset.lang === lang) b.classList.add('active');
+          else b.classList.remove('active');
+          b.addEventListener('click', function(){
+            var l = this.dataset.lang;
+            localStorage.setItem('lang', l);
+            location.reload();
+          });
+        });
+      });
+    })();
+  </script>
 </head>
