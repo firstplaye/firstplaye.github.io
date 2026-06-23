@@ -16,6 +16,8 @@ tags:
 
 **AI 旅行アシスタント**は、Google Gemini 大規模言語モデルを活用した**日本語旅行プランニング Web アプリ**です。目的地・予算・日数を入力するだけで、AI が自動的に詳細な旅行計画を生成します。さらに、AI とのリアルタイムストリーミングチャット機能も搭載しています。
 
+> 🌐 **公開URL:** [https://travel-app-02ok.onrender.com/](https://travel-app-02ok.onrender.com/)
+
 ---
 
 ## 🎯 なぜ作ったのか
@@ -187,4 +189,6 @@ Vant 4 を採用し、スマートフォンでの利用を前提とした UI 設
 
 ---
 
+> 🌐 **公開URL:** [https://travel-app-02ok.onrender.com/](https://travel-app-02ok.onrender.com/)
+>
 > 本プロジェクトは個人開発作品です。ソースコードは GitHub で公開予定。

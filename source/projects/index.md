@@ -9,7 +9,7 @@ type: page
 ---
 
 ### [✈️ AI 旅行アシスタント](/2026/06/22/travel-ai-assistant/)
-`2026年6月` | 個人開発
+`2026年6月` | 個人開発 · [🌐 公開サイト](https://travel-app-02ok.onrender.com/)
 
 Gemini 搭載の旅行プランニング Web アプリ。Vue3 + Express + SSE ストリーミング。
 
