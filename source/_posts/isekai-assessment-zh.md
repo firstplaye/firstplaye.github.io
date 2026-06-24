@@ -13,6 +13,8 @@ tags:
   - TypeScript
 ---
 
+![标题画面](/images/isekai/01-intro.png)
+
 ## 📄 概述
 
 **異世界転生——大学卒業直前の救世伝説** 是一款沉浸式剧情性格测试 Web 应用。玩家通过 10 个关键节点的选择，系统根据选择推断人格特征。设计风格参考 Re:Zero 的暗黑奇幻 RPG 美学。
@@ -61,6 +63,8 @@ tags:
 | 数据 | Firebase Firestore |
 | 部署 | GitHub Pages（静态导出） |
 
+![答题画面](/images/isekai/02-question.png)
+
 ---
 
 ## 🎨 UI 设计
@@ -73,6 +77,8 @@ tags:
 - 魔法阵旋转动画（三重环 + SVG 齿轮纹样）
 - 浮动マナ粒子特效
 - 章节转场黑幕 + 魔法阵过渡
+
+![结果页面](/images/isekai/03-result.png)
 
 ---
 

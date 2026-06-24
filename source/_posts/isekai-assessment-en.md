@@ -13,6 +13,8 @@ tags:
   - TypeScript
 ---
 
+![Title Screen](/images/isekai/01-intro.png)
+
 ## 📄 Overview
 
 **Isekai Reincarnation: The Savior's Legend Before Graduation** is an immersive story-driven personality assessment web app. Players make choices at 10 critical story junctures, and the system infers their personality traits from those decisions. The UI is designed with a Re:Zero-inspired dark fantasy RPG aesthetic.
@@ -61,6 +63,8 @@ When two dimensions score within 20% of each other, a hybrid class is triggered 
 | Database | Firebase Firestore |
 | Deployment | GitHub Pages (static export) |
 
+![Question Screen](/images/isekai/02-question.png)
+
 ---
 
 ## 🎨 UI Design
@@ -73,6 +77,8 @@ Dark fantasy style inspired by Re:Zero:
 - Rotating magic circles (triple ring + SVG gear patterns)
 - Floating mana particle effects
 - Chapter transition screen with black curtain + magic circle
+
+![Result Screen](/images/isekai/03-result.png)
 
 ---
 
