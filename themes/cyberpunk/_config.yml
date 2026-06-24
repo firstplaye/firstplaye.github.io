@@ -46,7 +46,8 @@ copyright: "© 2026 // SYSTEM_ONLINE //"
 
 # Sidebar
 sidebar: right
-widgets: []
+widgets:
+  - category
   - tagcloud
   - archive
   - recent_posts

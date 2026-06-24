@@ -1,7 +1,8 @@
 ---
 title: 異世界転生ストーリー型性格診断アプリ
 date: 2026-06-24
-permalink: 2026/06/24/isekai-personality-assessment-zh/
+lang: zh-cn
+permalink: zh-cn/2026/06/24/isekai-personality-assessment/
 categories: 项目
 tags:
   - React

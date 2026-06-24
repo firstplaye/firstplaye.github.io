@@ -1,7 +1,8 @@
 ---
 title: Isekai Reincarnation Story-Based Personality Assessment
 date: 2026-06-24
-permalink: 2026/06/24/isekai-personality-assessment-en/
+lang: en
+permalink: en/2026/06/24/isekai-personality-assessment/
 categories: Project
 tags:
   - React
