@@ -9,6 +9,15 @@ lang: ja
 
 ---
 
+### [🌟 異世界転生ストーリー型性格診断](/ja/2026/06/24/isekai-personality-assessment/)
+`2026年6月` | 個人開発 · [🌐 公開サイト](https://firstplaye.github.io/isekai-shindan/)
+
+没入型ストーリー性格診断 Web アプリ。10 の選択から性格を推論。Re:Zero 風 RPG UI。
+
+> 技術スタック：`React` `Next.js` `TypeScript` `Firebase` `Tailwind CSS` `Framer Motion`
+
+---
+
 ### [✈️ AI 旅行アシスタント](/2026/06/23/travel-ai-assistant/)
 `2026年6月` | 個人開発 · [🌐 公開サイト](https://travel-app-02ok.onrender.com/)
 
