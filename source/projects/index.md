@@ -16,6 +16,8 @@ lang: ja
 
 > 技術スタック：`React` `Next.js` `TypeScript` `Firebase` `Tailwind CSS` `Framer Motion`
 
+![QRコード](/images/isekai/qr-code.png)
+
 ---
 
 ### [✈️ AI 旅行アシスタント](/2026/06/23/travel-ai-assistant/)

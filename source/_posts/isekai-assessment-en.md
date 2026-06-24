@@ -148,3 +148,9 @@ src/
 ---
 
 > 💡 Source: [github.com/firstplaye/isekai-shindan](https://github.com/firstplaye/isekai-shindan)
+
+---
+
+## 📱 Scan to Try
+
+![QR Code](/images/isekai/qr-code.png)

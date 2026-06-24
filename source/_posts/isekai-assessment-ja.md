@@ -148,3 +148,9 @@ src/
 ---
 
 > 💡 ソースコード：[github.com/firstplaye/isekai-shindan](https://github.com/firstplaye/isekai-shindan)
+
+---
+
+## 📱 QRコードでアクセス
+
+![QRコード](/images/isekai/qr-code.png)

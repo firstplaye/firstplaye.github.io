@@ -148,3 +148,9 @@ src/
 ---
 
 > 💡 源码：[github.com/firstplaye/isekai-shindan](https://github.com/firstplaye/isekai-shindan)
+
+---
+
+## 📱 扫码体验
+
+![QR码](/images/isekai/qr-code.png)
